@@ -53,7 +53,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 0 | [Name](www.example-link.com) | This is just an example format, write the description here.  | 50% discount, coupon code - bf2021 | 11-Nov-2021 to 25-Dec-2021 |
+| 0 | [Tripetto](https://tripetto.com/black-friday-sale/) | Tripetto lets you build, run and store highly customizable conversational forms and surveys right inside your WordPress. | Up to 50% discount, no coupon code needed | November 22, 2021 to November 30, 2021 |
 
 ## Standalone scripts
 
